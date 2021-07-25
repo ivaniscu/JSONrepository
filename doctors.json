@@ -1,0 +1,54 @@
+{
+  "doctors": [
+    {
+      "name": "dr. Heraldine Mariana Kaligis, Sp.A",
+      "specialist": "Spesialis Anak",
+      "imgURL": "https://files.catbox.moe/arvesx.jpeg"
+    },
+    {
+      "name": "dr. Budi Novitri, Sp.A, M.Kes",
+      "specialist": "Spesialis Anak",
+      "imgURL": "https://files.catbox.moe/68fdit.jpeg"
+    },
+    {
+      "name": "dr. Dwiana Ardianti",
+      "specialist": "Dokter Umum ",
+      "imgURL": "https://files.catbox.moe/cp08zc.jpeg"
+    },
+    {
+      "name": "dr. Mellia Ambarningrum, Sp.S",
+      "specialist": "Spesialis Saraf",
+      "imgURL": "https://files.catbox.moe/h8kbcg.jpeg"
+    },
+    {
+      "name": "dr. Hari Darmawan, Sp.KK",
+      "specialist": "Spesialis Kulit",
+      "imgURL": "https://files.catbox.moe/ifatqf.jpeg"
+    },
+    {
+      "name": "dr. Saiful Anam, Sp.PD, M.Sc",
+      "specialist": "Spesialis Penyakit Dalam",
+      "imgURL": "https://files.catbox.moe/ej066i.jpeg"
+    },
+    {
+      "name": "dr. Donny Sutrisno Winardo Sp.OG",
+      "specialist": "Spesialis Kandungan",
+      "imgURL": "https://files.catbox.moe/jrigrq.jpeg"
+    },
+    {
+      "name": "dr. Amon Josafat, Sp.B",
+      "specialist": "Spesialis Bedah",
+      "imgURL": "https://files.catbox.moe/4lh81l.jpeg"
+    },
+    {
+      "name": "dr. Gabriel Federikus Goleng, Sp.S",
+      "specialist": "Spesialis Saraf",
+      "imgURL": "https://files.catbox.moe/zooyb2.jpeg"
+    },
+    {
+      "name": "dr. Dhian Takarina, Sp.KK",
+      "specialist": "Spesialis Kulit",
+      "imgURL": "https://files.catbox.moe/tjunbg.jpeg"
+    }
+  ]
+}
